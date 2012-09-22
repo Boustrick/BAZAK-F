@@ -1,11 +1,13 @@
 
-public class main {
+public class main 
+{
 
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
-		// TODO Stub de la méthode généré automatiquement
+	public static void main(String[] args) 
+	{
+		System.out.println("Essai");
 
 	}
 
